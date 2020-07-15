@@ -4,20 +4,20 @@
 
 <h3>Módulo 1
 <ul>
-  <li>1 - Introdução<li>
-  2 - Apresentação do curso
-  3 - Preparando Ambiente
-  4 - Estrutura de um projeto no Visual Studio 2017
-  5 - Processo de Inicialização de uma aplicação em ASP.NET CORE
-  6 - Configuração de uma aplicação pelo appsettings.json
-  7 - Enviroments (Development, Staging, Production)
-  8 - Injeção de Dependência
-  9 - Criando um serviço que vai utilizar injeção de dependência
-  10 - StaticFiles
-  11 - Acessando arquivos
-  12 - Middleware
-  13 - Tratamento de Erros
-  14 - Session
-  15 - Migrar Asp.Net Core 2.0 para 2.1
-  16 - Atividas e Exercícios
+  <li>1 - Introdução
+  <li>2 - Apresentação do curso
+  <li>3 - Preparando Ambiente
+  <li>4 - Estrutura de um projeto no Visual Studio 2017
+  <li>5 - Processo de Inicialização de uma aplicação em ASP.NET CORE
+  <li>6 - Configuração de uma aplicação pelo appsettings.json
+  <li>7 - Enviroments (Development, Staging, Production)
+  <li>8 - Injeção de Dependência
+  <li>9 - Criando um serviço que vai utilizar injeção de dependência
+  <li>10 - StaticFiles
+  <li>11 - Acessando arquivos
+  <li>12 - Middleware
+  <li>13 - Tratamento de Erros
+  <li>14 - Session
+  <li>15 - Migrar Asp.Net Core 2.0 para 2.1
+  <li>16 - Atividas e Exercícios
 <\ul>
