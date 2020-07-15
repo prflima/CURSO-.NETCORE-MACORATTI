@@ -3,8 +3,8 @@
 <h6>Aqui deixarei descrito os temas dos módulos e irei atualizando na medida que for concluindo cada etapa.
 
 <h3>Módulo 1
-
-  1 - Introdução
+<ul>
+  <li>1 - Introdução<li>
   2 - Apresentação do curso
   3 - Preparando Ambiente
   4 - Estrutura de um projeto no Visual Studio 2017
@@ -20,3 +20,4 @@
   14 - Session
   15 - Migrar Asp.Net Core 2.0 para 2.1
   16 - Atividas e Exercícios
+<\ul>
