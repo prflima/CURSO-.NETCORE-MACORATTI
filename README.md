@@ -1,8 +1,8 @@
 <h1>CURSO-.NETCORE-MACORATTI </h1>
 
-<h6>Aqui deixarei descrito os temas dos módulos e irei atualizando na medida que for concluindo cada etapa.
+<h3>Aqui deixarei descrito os temas dos módulos e irei atualizando na medida que for concluindo cada etapa.
 
-<h3>Módulo 1
+<h5>Módulo 1
 <ul>
   <li>1 - Introdução
   <li>2 - Apresentação do curso
@@ -20,4 +20,3 @@
   <li>14 - Session
   <li>15 - Migrar Asp.Net Core 2.0 para 2.1
   <li>16 - Atividas e Exercícios
-<\ul>
