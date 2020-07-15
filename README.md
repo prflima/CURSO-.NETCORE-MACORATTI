@@ -1,8 +1,9 @@
-# CURSO-.NETCORE-MACORATTI
+<h1> CURSO-.NETCORE-MACORATTI </h2>
 
-Aqui deixarei descrito os temas dos módulos e irei atualizando na medida que for concluindo cada etapa.
+<h6> Aqui deixarei descrito os temas dos módulos e irei atualizando na medida que for concluindo cada etapa. <\h6>
 
-Módulo 1
+<h3> Módulo 1 <\h3>
+
   1 - Introdução
   2 - Apresentação do curso
   3 - Preparando Ambiente
