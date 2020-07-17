@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj": {}
+    "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj": {
+    "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
+        "projectUniqueName": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
         "projectName": "AspNetCoreEmpty",
-        "projectPath": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
+        "projectPath": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
         "packagesPath": "C:\\Users\\PauloLima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\obj\\",
+        "outputPath": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -52,6 +52,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

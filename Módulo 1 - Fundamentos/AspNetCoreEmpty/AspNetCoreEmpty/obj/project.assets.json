@@ -11886,11 +11886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
+      "projectUniqueName": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
       "projectName": "AspNetCoreEmpty",
-      "projectPath": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
+      "projectPath": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
       "packagesPath": "C:\\Users\\PauloLima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\obj\\",
+      "outputPath": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

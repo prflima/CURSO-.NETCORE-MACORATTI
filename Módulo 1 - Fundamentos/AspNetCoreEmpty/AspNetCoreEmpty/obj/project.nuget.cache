@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7My0cky4ynHuUEwN0JwzIdOPJiCMc0eM6P5wPzSu7kcHvXntPUkvPfRTuX89Bs0kxrtFpx6Nte6PvghlfZTlag==",
+  "dgSpecHash": "hwG42SFX9tdSU8yylqReJO4styfD5Ca7psYoFJjGa5/lDrKvLZQtzfcSFFKUvQjkvDqy/4pFOuPPTOae688Wfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PauloLima\\Desktop\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
+  "projectFilePath": "C:\\Users\\PauloLima\\Desktop\\Módulos Macoratti\\Módulo 1 - Fundamentos\\AspNetCoreEmpty\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PauloLima\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\PauloLima\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
