@@ -15,6 +15,7 @@ namespace AspNetCoreEmpty.Services
         {
             // Configuramos na Startup que o _config acessa as informações do nosso arquivo
             // appsettings.json, aqui vou retornar o valor do atributo/name/chave "Mensagem"
+            throw new Exception("Testando variáveis de ambiente");
             return _config["Mensagem"];
         }
     }

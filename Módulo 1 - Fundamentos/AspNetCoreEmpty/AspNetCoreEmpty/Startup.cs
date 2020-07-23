@@ -37,6 +37,10 @@ namespace AspNetCoreEmpty
             // Vamos configurar uma nova injteção para o arquivo ConfigurationMensagemService
             services.AddSingleton(provider => _config); // Estamos preparando nossa injeção para adicionar o servico _config na nossa instância.
             services.AddSingleton<IConfigurationMensagem, ConfigurationMensagemService>(); // Estamos apontando qual interface e instância queremos.
+
+            //Configurando um cache Session
+            services.AddDistributedMemoryCache();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +50,16 @@ namespace AspNetCoreEmpty
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                //app.UseExceptionHandler();
+                //app.UseStatusCodePages();
+                //app.UseStatusCodePagesWithRedirects("MinhaPaginaErro/{0}");
+                app.UseStatusCodePagesWithReExecute("MinhaPaginaErro/{0}");
+            }
+
+            //chamando o serviço de cookie
+            app.UseSession();
 
             app.UseStaticFiles(new StaticFileOptions() 
             {
@@ -56,7 +70,6 @@ namespace AspNetCoreEmpty
             app.Run(async (context) =>
             {
                 //await context.Response.WriteAsync($"{_config["Mensagem"]}, {_config["ConnectionStrings:DefaultConnection"]}");
-                await context.Response.WriteAsync(msg.GetMensagem());
                 await context.Response.WriteAsync(cfgMsg.GetConfigMensagem());
             });
         }
