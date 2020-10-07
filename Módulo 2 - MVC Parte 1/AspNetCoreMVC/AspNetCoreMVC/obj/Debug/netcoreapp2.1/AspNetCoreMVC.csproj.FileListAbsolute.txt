@@ -12,7 +12,6 @@ C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCore
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.csprojAssemblyReference.cache
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.AssemblyInfoInputs.cache
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.AssemblyInfo.cs
-C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.csproj.CoreCompileInputs.cache
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.RazorAssemblyInfo.cache
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.RazorAssemblyInfo.cs
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.TagHelpers.input.cache
@@ -36,3 +35,5 @@ C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCore
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.pdb
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.genruntimeconfig.cache
 C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.csproj.CopyComplete
+C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\AspNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\PauloLima\Desktop\Módulos Macoratti\Módulo 2 - MVC Parte 1\AspNetCoreMVC\AspNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Clientes\Detalhe.cshtml.g.cs

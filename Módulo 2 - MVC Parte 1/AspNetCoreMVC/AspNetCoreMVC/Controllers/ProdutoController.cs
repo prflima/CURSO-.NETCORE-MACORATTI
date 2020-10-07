@@ -41,5 +41,10 @@ namespace AspNetCoreMVC.Controllers
         {
             return Ok("O valor de Id = " + id);
         }
+
+        public IActionResult Lancamento(int ano, int mes)
+        {
+            return Ok($"{ano}/{mes}");
+        }
     }
 }

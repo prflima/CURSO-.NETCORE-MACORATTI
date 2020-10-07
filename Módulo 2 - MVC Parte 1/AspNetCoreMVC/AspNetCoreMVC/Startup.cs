@@ -55,6 +55,12 @@ namespace AspNetCoreMVC
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
+                    "DataLancamento",
+                    "produto/lancamento/{ano}/{mes}",
+                    new { Controller = "Produto", Action = "Lancamento"}
+                    );
+
+                routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
